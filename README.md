@@ -18,8 +18,10 @@ names <br>
 random  <br>
 psycopg2  <br>
 
-<h1>INSTALAÇÃO</h1<h1>
-  
+----
+
+<h1>INSTALAÇÃO</h1>
+
 pip install names; pip install psycopg2;
 
 ----

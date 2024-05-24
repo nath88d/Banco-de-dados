@@ -31,4 +31,5 @@ pip install names; pip install psycopg2;
 ----
 <h1>DIAGRAMA RELACIONAL</h1>
 
-![diag](https://github.com/nath88d/Banco-de-dados/assets/104024701/9879fc5e-3f7e-4057-9813-af29c4427de0)
+![DIAGRAMA RELACIONAL BANCO DE DADODS](https://github.com/nath88d/Banco-de-dados/assets/162132631/28056a8d-5355-42eb-9768-0edaec59ea3c)
+

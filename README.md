@@ -1,5 +1,4 @@
-# Banco-de-dados
-Projeto de banco de dados
+# PROJETO DE BANCO DE DADOS
 
 ----
 <h1>GRUPO</h1>

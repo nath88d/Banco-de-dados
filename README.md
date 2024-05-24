@@ -20,4 +20,10 @@ pip install names; pip install psycopg2;
 ----
 <h1>Inserção de dados aleatórios no banco:</h1>
   Basta executar o arquivo `./rand_data.py` e inserir o General string gerado pelo CockroachDB
-  Apos os dados serem inseridos, utilizar o arquivo `<nome_do_arquivo>.sql´ para fazer a requisição filtrada dos dados (SELECT).
+  Apos os dados serem inseridos, utilizar o arquivo `queries.sql´ para fazer a requisição filtrada dos dados (SELECT).
+
+
+----
+<h1>Diagrama relacional</h1>
+
+![diag](https://github.com/nath88d/Banco-de-dados/assets/104024701/9879fc5e-3f7e-4057-9813-af29c4427de0)

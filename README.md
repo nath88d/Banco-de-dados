@@ -2,9 +2,9 @@
 
 ----
 <h1>GRUPO</h1>
-  -> Nathan Dantas Mendes 24.122.041-7 <br>
-  -> Ana Beatriz de Souza 24.122.018-5 <br>
-  -> Luísa Graça Barbado  24.122.058-1 <br>
+  -> Nathan Dantas Mendes: 24.122.041-7 <br>
+  -> Ana Beatriz de Souza: 24.122.018-5 <br>
+  -> Luísa Graça Barbado:  24.122.058-1 <br>
 
 ----
 <h1>CRIAÇÃO DE TABELAS</h1>
